@@ -100,7 +100,8 @@ streamlit run app/app.py
 
 **Model Output:**
 
-![image](https://github.com/user-attachments/assets/57cebb21-f373-4001-8101-a320d22fb3c8)
+![WhatsApp Image 2025-06-04 at 18 55 53_c4abbde9](https://github.com/user-attachments/assets/85fce616-6533-4fe7-a5dc-bd53b39d3af2)
+
 
 ---
 
