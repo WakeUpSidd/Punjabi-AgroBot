@@ -1,0 +1,14 @@
+langchain
+transformers
+sentencepiece
+
+faiss-cpu
+
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+
+streamlit
+
+python-dotenv
+
+langchain-mistralai
+aiohttp
